@@ -230,11 +230,3 @@ This allows predictions on new customer data without performing preprocessing ma
 - Docker Containerization
 
 ---
-
-## Author
-
-**Ali Hiader**
-
-BS Computer Science
-
-Air University
